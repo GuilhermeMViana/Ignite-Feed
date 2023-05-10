@@ -1,0 +1,20 @@
+.header {
+    color: #fff;
+    background-color: var(--gray-800);
+    height: 80px;
+
+    display: flex;
+    justify-content: center;
+
+    padding: 1.25rem 0;
+
+    gap: 1rem;
+}
+
+.image {
+    flex-basis: 40%;
+}
+
+.header img {
+    height: 2rem;
+}
